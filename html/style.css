@@ -78,8 +78,9 @@ nav ul li a:hover {
     border-bottom: 1px dotted #000;
     width: 220px;
     padding-bottom: 5px;
+
 }
-body {
+body { /* a teg body para insrir uma imagem de fundo, mais ainda preciso fazer alterações.*/
 background-image: url(./minha-imagem1.png);
 background-size:cover;
 }
