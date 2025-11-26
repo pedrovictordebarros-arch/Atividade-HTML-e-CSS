@@ -57,7 +57,7 @@ nav ul li a:hover {
 .hero p {
     margin-top: 10px;
     font-size: 20px;
-    color: #555;
+    color: #0c0c0c;
 }
 
 .projects-grid {
@@ -84,3 +84,29 @@ body { /* a teg body para insrir uma imagem de fundo, mais ainda preciso fazer a
 background-image: url(./minha-imagem1.png);
 background-size:cover;
 }
+
+.icone-facebook {
+    border-radius: 10px;
+    transition: 0.3s;
+    width: 60px;
+    height: 60px;
+    margin-top: 80px;     /* move para baixo */
+    margin-bottom: 20px;  /* move para cima */
+    margin-left: 20px;    /* move para a direita */
+    margin-right: 5%;   /* move para a esquerda */
+}
+
+.icone-instagran {
+
+    border-radius: 10px;
+    transition: 0.3s;
+    width: 60px;
+    height: 60px;
+    margin-top: 80px;     /* move para baixo */
+    margin-bottom: 20px;  /* move para cima */
+    margin-left: 27px;    /* move para a direita */
+    margin-right: 0;   /* move para a esquerda */
+}
+
+
+
