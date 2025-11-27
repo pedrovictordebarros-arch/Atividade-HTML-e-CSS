@@ -81,7 +81,7 @@ nav ul li a:hover {
 
 }
 body { /* a teg body para insrir uma imagem de fundo, mais ainda preciso fazer alterações.*/
-background-image: url(./minha-imagem1.png);
+background-image: url('../img/minha-imagem1.png');
 background-size:cover;
 }
 
